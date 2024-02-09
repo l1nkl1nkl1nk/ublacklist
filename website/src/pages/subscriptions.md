@@ -71,7 +71,7 @@ title: Subscriptions
 - [ublacklist-scam-net-shops](https://github.com/exoego/ublacklist-scam-net-shops) by [@exoego](https://github.com/exoego)
   - "怪しいネットショップを検索結果から除外"
 
-## Other subscription lists {#other-subscription-lists}
+## Other subscription lists {#other-subscription-lists} 
 
 - [awesome-ublacklist](https://github.com/rjaus/awesome-ublacklist) by [Riley James](https://github.com/rjaus)
   - "Awesome list of uBlacklist subscriptions to block search results from google, bing, duckduckgo."
